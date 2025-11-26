@@ -48,16 +48,6 @@ const DrkCyph7 = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=drkcyph7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,6 +87,6 @@ const DrkCyph7 = {
 
 **💚 Code is poetry written in logic - DrkCyph7 ⚡**
 
-**⭐ Star this repo • Made with 💚 by [DrkCyph7](https://github.com/drkcyph7)**
+**Made with 💚 by [DrkCyph7](https://github.com/drkcyph7)**
 
 </div>
