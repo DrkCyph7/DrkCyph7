@@ -1,6 +1,6 @@
-<br/>
-
 <div align="center">
+<br/>
+<br/>
 
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=DrkCyph7;Solution+Architect;Full+Stack+Lead;%3E_+Web+%7C+Mobile+%7C+IoT" alt="Header" />
@@ -22,10 +22,10 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                    > SYSTEM INFORMATION                      ║
 ╠══════════════════════════════════════════════════════════════╣
-║  User:        Dinuka (DrkCyph7)                             ║
-║  Location:    Sri Lanka 🇱🇰                                  ║
-║  Role:        Solution Architect + Full Stack Lead          ║
-║  Status:      [ ONLINE ] Web • Mobile • IoT Development     ║
+║  User:        Dinuka (DrkCyph7)                              ║
+║  Location:    Sri Lanka                                      ║
+║  Role:        Solution Architect + Full Stack Lead           ║
+║  Status:      [ ONLINE ] Web • Mobile • IoT Development      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
