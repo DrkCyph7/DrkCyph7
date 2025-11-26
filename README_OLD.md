@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=DrkCyph7;Solution+Architect;Full+Stack+Lead;%3E_+Web+%7C+Mobile+%7C+IoT" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=DrkCyph7;Full+Stack+Architect;Cloud+Engineer;%3E_+Building+Digital+Solutions" alt="Header" />
 
 <br/>
 
@@ -22,8 +22,8 @@
 ╠══════════════════════════════════════════════════════════════╣
 ║  User:        Dinuka (DrkCyph7)                             ║
 ║  Location:    Sri Lanka 🇱🇰                                  ║
-║  Role:        Solution Architect + Full Stack Lead          ║
-║  Status:      [ ONLINE ] Web • Mobile • IoT Development     ║
+║  Role:        Full Stack Architect & Cloud Engineer         ║
+║  Status:      [ ONLINE ] Building scalable solutions        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -31,18 +31,17 @@
 
 ```javascript
 const developer = {
-  code: ["JavaScript", "TypeScript", "Python", "PHP", "Dart"],
-  specialization: {
-    web: ["Next.js", "React", "Tailwind CSS", "Laravel"],
-    mobile: ["Flutter", "Cross-Platform Apps"],
-    iot: ["Embedded Systems", "IoT Architecture", "Sensor Integration"],
-    backend: ["Laravel", "Python", "Node.js", "RESTful APIs"],
-    cloud: ["AWS", "Azure", "Vercel", "Cloud Architecture"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"]
+  code: ["TypeScript", "JavaScript", "Python", "Go", "PHP", "Dart"],
+  technologies: {
+    frontend: ["React", "Next.js", "Vue", "Tailwind"],
+    backend: ["Node.js", "Express", "Laravel", "Go Fiber"],
+    mobile: ["Flutter", "React Native"],
+    cloud: ["AWS", "Azure", "GCP", "Vercel"],
+    devops: ["Docker", "Kubernetes", "CI/CD"],
+    databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
   },
-  role: "Solution Architect + Full Stack Lead",
-  currentFocus: "End-to-end solutions: Web • Mobile • IoT ecosystems",
-  approach: "Architecting scalable, secure, production-ready systems"
+  currentFocus: "Building cloud-native applications & AI integration",
+  challenge: "Architecting systems that scale effortlessly"
 };
 ```
 
@@ -50,23 +49,23 @@ const developer = {
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -86,44 +85,35 @@ const developer = {
 
 ```typescript
 const expertise = {
-  webDevelopment: [
-    "Next.js & React applications with Tailwind CSS",
-    "Laravel backend APIs & full-stack solutions",
-    "Python web frameworks & automation",
-    "Responsive, modern UI/UX design"
+  architecture: [
+    "Design scalable microservices",
+    "Build cloud-native applications",
+    "Implement CI/CD pipelines",
+    "Optimize system performance"
   ],
   
-  mobileDevelopment: [
-    "Flutter cross-platform apps (iOS & Android)",
-    "Native-quality mobile experiences",
-    "Firebase integration & cloud sync",
-    "Offline-first architecture"
+  development: [
+    "Full-stack web applications",
+    "Cross-platform mobile apps", 
+    "RESTful & GraphQL APIs",
+    "Real-time systems"
   ],
   
-  iotSolutions: [
-    "IoT architecture & embedded systems",
-    "Sensor data collection & processing",
-    "Real-time monitoring dashboards",
-    "Device-to-cloud integration"
-  ],
-  
-  leadership: [
-    "Solution architecture & system design",
-    "Technical team leadership",
-    "Code review & best practices",
-    "End-to-end project delivery"
+  interests: [
+    "Open Source",
+    "DevOps automation",
+    "System design",
+    "Clean architecture"
   ]
 };
 ```
 
-## 💼 Services & Expertise
+## 💼 Open For
 
-- 🏗️ **Solution Architecture** - End-to-end system design
-- 🌐 **Web Development** - Next.js, Laravel, Tailwind CSS
-- 📱 **Mobile Apps** - Flutter cross-platform development
-- 🔌 **IoT Solutions** - Connected devices & embedded systems
-- 👔 **Technical Leadership** - Team guidance & code excellence
-- 🤝 **Available for**: Freelance • Consulting • Full-Time
+- 🔧 Freelance Projects
+- 💻 Full-Time Opportunities  
+- 🤝 Technical Consulting
+- 🌟 Open Source Collaboration
 
 ## 📫 Connect
 
