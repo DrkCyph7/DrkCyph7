@@ -32,12 +32,12 @@ Passionate engineer building performant web and cloud-native apps. I focus on de
 <div align="center">
   
 ### 🐍 Contribution Snake (eating your commits!)
-<!-- Appears after the workflow runs and creates the SVGs -->
-<a href="https://github.com/DrkCyph7/DrkCyph7/actions" title="Generate snake">
-  <img alt="Awaiting first run" src="https://img.shields.io/badge/Snake-Generating_after_first_run-00FF41?style=for-the-badge">
-  <br/>
-  <sub>If you see a missing image, run the "Generate Snake Animation" workflow in Actions.</sub>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake.svg">
+</picture>
+<sub>If this looks empty, run the "Generate Snake Animation" workflow in Actions to populate the SVGs.</sub>
 
 ### 💻 Terminal Activity
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=500&color=00FF41&multiline=true&repeat=true&width=600&height=100&lines=%24+sudo+apt+install+awesome;Reading+package+lists...+Done;Building+dependency+tree...;%24+git+commit+-m+%22another+day%2C+another+deploy%22;%24+docker-compose+up+-d;Creating+network...+done" alt="Terminal Animation" />
