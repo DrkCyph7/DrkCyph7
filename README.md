@@ -1,18 +1,21 @@
-# 💻 DrkCyph7
-
-<br/>
-
 <div align="center">
 
-### Solution Architect + Full Stack Lead
-**`> Web | Mobile | IoT Development`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00aa00&height=200&section=header&text=DrkCyph7&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Solution%20Architect%20|%20Full%20Stack%20Lead%20|%20Hacker%20Mindset&descAlignY=55&descSize=20" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Dinuka-l)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dinuka@nexcy.lk)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/drkcyph7)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/drkcyph7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%40drkcyph7%3A~%24+whoami;Solution+Architect+%7C+Full+Stack+Lead;Web+%E2%80%A2+Mobile+%E2%80%A2+IoT+Developer;Building+the+future%2C+one+commit+at+a+time...;%3E+Access+Granted+%E2%80%A2+Welcome+to+my+matrix)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=drkcyph7&color=00ff41&style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+Initializing+System...+%5D;%5B+Loading+Neural+Network...+%5D;%5B+Connecting+to+Matrix...+%5D;%5B+Access+Granted+%E2%9C%93+%5D;DrkCyph7+%7C+Online+%26+Coding" alt="Terminal Loading" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/Dinuka-l)
+[![Email](https://img.shields.io/badge/-Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000)](mailto:dinuka@nexcy.lk)
+[![Twitter](https://img.shields.io/badge/-Twitter-00ff41?style=for-the-badge&logo=x&logoColor=000&labelColor=000)](https://x.com/drkcyph7)
+[![Instagram](https://img.shields.io/badge/-Instagram-00ff41?style=for-the-badge&logo=instagram&logoColor=000&labelColor=000)](https://instagram.com/drkcyph7)
+
+<img src="https://komarev.com/ghpvc/?username=drkcyph7&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
 
 </div>
 
@@ -21,136 +24,269 @@
 ### 🖥️ System Info
 
 ```bash
-┌─────────────────────────────────────────────────┐
-│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-│                                                 │
-│  root@drkcyph7:~$ cat /etc/profile              │
-│                                                 │
-│  NAME:       Dinuka (DrkCyph7)                  │
-│  LOCATION:   Sri Lanka 🇱🇰                       │
-│  ROLE:       Solution Architect + Full Stack    │
-│  UPTIME:     ████████████████░░ 85% available   │
-│  STATUS:     [✓] ONLINE - Ready to build        │
-│  FOCUS:      Web • Mobile • IoT Ecosystems      │
-│                                                 │
-│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  │
-└─────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
+│                                                                 │
+│  ██████╗ ██████╗ ██╗  ██╗ ██████╗██╗   ██╗██████╗ ██╗  ██╗███╗│
+│  ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗██║  ██║████║│
+│  ██║  ██║██████╔╝█████╔╝ ██║      ╚████╔╝ ██████╔╝███████║╔═██║│
+│  ██║  ██║██╔══██╗██╔═██╗ ██║       ╚██╔╝  ██╔═══╝ ██╔══██║║ ██║│
+│  ██████╔╝██║  ██║██║  ██╗╚██████╗   ██║   ██║     ██║  ██║███╔╝│
+│  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══╝ │
+│                                                                 │
+│  root@drkcyph7:~$ cat /etc/system.conf                          │
+│                                                                 │
+│  CODENAME:   DrkCyph7                                           │
+│  IDENTITY:   Solution Architect • Full Stack Lead               │
+│  LOCATION:   Sri Lanka 🇱🇰  • Operating Globally 🌐             │
+│  MODE:       [HACKER] Architect • Developer • Innovator         │
+│  UPTIME:     ████████████████████░ 95% operational              │
+│  STATUS:     [✓] ONLINE • [✓] ENCRYPTED • [✓] READY             │
+│  MISSION:    Build • Deploy • Dominate                          │
+│  STACK:      Web ⚡ Mobile 📱 IoT 🔌 Cloud ☁️                    │
+│                                                                 │
+│  > Authorized Access Only - DrkCyph7 Protocol Active            │
+│                                                                 │
+│ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
+</div>
 
 ## 🎯 $ whoami
 
 ```javascript
-const developer = {
-  code: ["JavaScript", "TypeScript", "Python", "PHP", "Dart"],
-  specialization: {
-    web: ["Next.js", "React", "Tailwind CSS", "Laravel"],
-    mobile: ["Flutter", "Cross-Platform Apps"],
-    iot: ["Embedded Systems", "IoT Architecture", "Sensor Integration"],
-    backend: ["Laravel", "Python", "Node.js", "RESTful APIs"],
-    cloud: ["AWS", "Azure", "Vercel", "Cloud Architecture"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"]
+const DrkCyph7 = {
+  alias: "DrkCyph7",
+  role: "Solution Architect • Full Stack Lead • Code Ninja",
+  mindset: "Hacker • Builder • Architect",
+  code: ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "C++"],
+  
+  expertise: {
+    web: {
+      frontend: ["Next.js", "React", "Tailwind CSS", "Vue.js"],
+      backend: ["Laravel", "Node.js", "Express", "Python/Django"],
+      fullStack: ["MERN", "MEAN", "Laravel+Vue", "Next.js Full Stack"]
+    },
+    mobile: {
+      framework: ["Flutter", "React Native"],
+      platforms: ["iOS", "Android", "Cross-Platform"],
+      deployment: ["App Store", "Play Store", "OTA Updates"]
+    },
+    iot: {
+      hardware: ["Arduino", "Raspberry Pi", "ESP32", "Sensors"],
+      protocols: ["MQTT", "WebSockets", "REST APIs", "Serial"],
+      cloud: ["AWS IoT", "Azure IoT", "Firebase", "Custom Servers"]
+    },
+    architecture: {
+      patterns: ["Microservices", "Serverless", "MVC", "Clean Architecture"],
+      cloud: ["AWS", "Azure", "GCP", "Vercel", "Docker", "Kubernetes"],
+      databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"]
+    }
   },
-  role: "Solution Architect + Full Stack Lead",
-  currentFocus: "End-to-end solutions: Web • Mobile • IoT ecosystems",
-  approach: "Architecting scalable, secure, production-ready systems"
+  
+  currentMission: "Architecting end-to-end solutions across Web • Mobile • IoT",
+  philosophy: "Code is poetry, architecture is art, execution is power",
+  status: "⚡ Building the future, one commit at a time",
+  
+  stats: {
+    coffeeDriven: true,
+    debugMode: "always_on",
+    sleepSchedule: "who needs sleep?",
+    productivity: "maximum_overdrive"
+  }
 };
+
+console.log("Welcome to DrkCyph7's Digital Domain 🚀");
 ```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
+</div>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,python,flutter,dart,nodejs,express,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,php,cpp,arduino,raspberrypi,aws,azure,gcp,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,git,github,vscode,linux,bash&theme=dark" />
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+</div>
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
+</div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=drkcyph7&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=drkcyph7&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=drkcyph7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=drkcyph7&theme=radical&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border_radius=10" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=drkcyph7&theme=dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=drkcyph7&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)
+<div align="center">
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=drkcyph7&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=DrkCyph7's%20Contribution%20Graph)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkcyph7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8&border_radius=10" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
 </div>
 
 ## 🚀 What I Do
 
 ```typescript
-const expertise = {
-  webDevelopment: [
-    "Next.js & React applications with Tailwind CSS",
-    "Laravel backend APIs & full-stack solutions",
-    "Python web frameworks & automation",
-    "Responsive, modern UI/UX design"
-  ],
+const DrkCyph7_Expertise = {
+  webDevelopment: {
+    frontend: [
+      "⚡ Building lightning-fast Next.js applications",
+      "🎨 Crafting beautiful UIs with React + Tailwind CSS",
+      "🔥 Modern, responsive, pixel-perfect designs",
+      "♿ Accessible, SEO-optimized web experiences"
+    ],
+    backend: [
+      "🏗️ Laravel APIs & full-stack PHP solutions",
+      "🐍 Python web frameworks & automation scripts",
+      "🚀 Node.js/Express microservices architecture",
+      "🔐 Secure authentication & authorization systems"
+    ]
+  },
   
-  mobileDevelopment: [
-    "Flutter cross-platform apps (iOS & Android)",
-    "Native-quality mobile experiences",
-    "Firebase integration & cloud sync",
-    "Offline-first architecture"
-  ],
+  mobileDevelopment: {
+    platforms: [
+      "📱 Flutter cross-platform apps (iOS + Android)",
+      "⚡ Native performance with beautiful animations",
+      "🔄 Offline-first architecture with sync",
+      "☁️ Firebase & cloud backend integration"
+    ]
+  },
   
-  iotSolutions: [
-    "IoT architecture & embedded systems",
-    "Sensor data collection & processing",
-    "Real-time monitoring dashboards",
-    "Device-to-cloud integration"
-  ],
+  iotSolutions: {
+    implementation: [
+      "🔌 End-to-end IoT architecture & design",
+      "📡 Sensor networks & data collection systems",
+      "📊 Real-time monitoring & analytics dashboards",
+      "🌐 Device-to-cloud communication protocols"
+    ],
+    hardware: [
+      "🤖 Arduino & ESP32 embedded systems",
+      "🍓 Raspberry Pi server & automation",
+      "📶 MQTT, WebSocket, REST API integration"
+    ]
+  },
   
-  leadership: [
-    "Solution architecture & system design",
-    "Technical team leadership",
-    "Code review & best practices",
-    "End-to-end project delivery"
-  ]
+  cloudArchitecture: {
+    expertise: [
+      "☁️ AWS/Azure cloud infrastructure design",
+      "🐳 Docker containerization & orchestration",
+      "⚙️ CI/CD pipelines & DevOps automation",
+      "📈 Scalable, highly available systems"
+    ]
+  },
+  
+  leadership: {
+    responsibilities: [
+      "👥 Technical team leadership & mentoring",
+      "🏛️ Solution architecture & system design",
+      "📋 Code review & best practices enforcement",
+      "🎯 End-to-end project delivery & deployment"
+    ]
+  }
 };
+
+// DrkCyph7: Where code meets creativity 🚀
+console.log("Building the impossible, one function at a time...");
 ```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
+</div>
 
 ## 💼 Services & Expertise
 
-- 🏗️ **Solution Architecture** - End-to-end system design
-- 🌐 **Web Development** - Next.js, Laravel, Tailwind CSS
-- 📱 **Mobile Apps** - Flutter cross-platform development
-- 🔌 **IoT Solutions** - Connected devices & embedded systems
-- 👔 **Technical Leadership** - Team guidance & code excellence
-- 🤝 **Available for**: Freelance • Consulting • Full-Time
+<div align="center">
 
-## 📫 Connect
+```ascii
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  🏗️  SOLUTION ARCHITECTURE    →  End-to-end system design         ║
+║  🌐  WEB DEVELOPMENT          →  Next.js • Laravel • Tailwind     ║
+║  📱  MOBILE APPS              →  Flutter cross-platform           ║
+║  🔌  IoT SOLUTIONS            →  Connected devices & embedded     ║
+║  ☁️  CLOUD ARCHITECTURE       →  AWS • Azure • Docker • K8s       ║
+║  👔  TECHNICAL LEADERSHIP     →  Team guidance & excellence       ║
+║  🔐  SECURITY SOLUTIONS       →  Secure, encrypted systems        ║
+║  🚀  DEVOPS & CI/CD           →  Automation & deployment          ║
+║                                                                    ║
+║  💼  AVAILABILITY: Freelance • Consulting • Full-Time             ║
+║  ⚡  RESPONSE TIME: < 24 hours                                     ║
+║  🌍  WORKING: Globally • Remotely • Efficiently                   ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
+</div>
+
+## 📫 Connect with DrkCyph7
 
 <div align="center">
 
 ```bash
-$ echo "Let's build something amazing together"
-> Contact me via LinkedIn or Email
-> Response time: < 24 hours
+┌──────────────────────────────────────────────────────────────┐
+│ root@drkcyph7:~$ echo "Let's build something legendary"     │
+│                                                              │
+│ > Initiating secure connection...                           │
+│ > Encryption protocol: AES-256                              │
+│ > Contact channels: ACTIVE                                  │
+│ > Response time: < 24 hours                                 │
+│ > Status: Ready to collaborate 🚀                           │
+│                                                              │
+│ [✓] Connection established - DrkCyph7 online                │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Dinuka-l)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:dinuka@nexcy.lk)
 
 <br/>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DrkCyph7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DrkCyph7-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/Dinuka-l)
+[![Email](https://img.shields.io/badge/Email-DrkCyph7-00ff41?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000000)](mailto:dinuka@nexcy.lk)
+[![Twitter](https://img.shields.io/badge/Twitter-@DrkCyph7-00ff41?style=for-the-badge&logo=x&logoColor=000&labelColor=000000)](https://x.com/drkcyph7)
+[![Instagram](https://img.shields.io/badge/Instagram-@DrkCyph7-00ff41?style=for-the-badge&logo=instagram&logoColor=000&labelColor=000000)](https://instagram.com/drkcyph7)
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_DrkCyph7_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000)](https://buymeacoffee.com/DrkCyph7)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" />
 
 </div>
 
@@ -158,17 +294,32 @@ $ echo "Let's build something amazing together"
 
 <div align="center">
 
-```
- _______________________________________________
-< Code is poetry written in logic - DrkCyph7 >
- -----------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00aa00&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗ ██████╗ ██╗  ██╗ ██████╗██╗   ██╗██████╗ ██╗  ██╗    ║
+║   ██╔══██╗██╔══██╗██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗██║  ██║    ║
+║   ██║  ██║██████╔╝█████╔╝ ██║      ╚████╔╝ ██████╔╝███████║    ║
+║   ██║  ██║██╔══██╗██╔═██╗ ██║       ╚██╔╝  ██╔═══╝ ██╔══██║    ║
+║   ██████╔╝██║  ██║██║  ██╗╚██████╗   ██║   ██║     ██║  ██║    ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝    ║
+║                                                                  ║
+║              "Code is poetry written in logic"                   ║
+║                    - DrkCyph7                                    ║
+║                                                                  ║
+║  ⚡ Powered by caffeine, driven by code, fueled by innovation   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**⭐ From [DrkCyph7](https://github.com/drkcyph7) with 💚**
+<br/>
+
+**⭐ Star this repo if you find it awesome! • Made with 💚 by [DrkCyph7](https://github.com/drkcyph7)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" />
 
 </div>
