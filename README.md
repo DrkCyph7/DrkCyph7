@@ -47,23 +47,18 @@ Passionate engineer building performant web and cloud-native apps. I focus on de
 
 </div>
 
-<!-- GitHub stats (these cards are images that update) -->
-## 📊 GitHub Stats
+<!-- Removed GitHub Stats cards for a cleaner, reliable hacker look -->
+```
+   _______      _        _____              _           
+  |  __   |    | |      / ____|            | |          
+  | |  | | ___ | | __  | |     ___  _ __ __| | ___ _ __ 
+  | |  | |/ _ \| |/ /  | |    / _ \| '__/ _` |/ _ \ '__|
+  | |__| | (_) |   <   | |___| (_) | | | (_| |  __/ |   
+  |______/\___/|_|\_\   \_____|\___/|_|  \__,_|\___|_|   
+      Minimal • Clean • Hacker • Edition
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drkcyph7&show_icons=true&hide_border=true&cache_seconds=7200&theme=radical&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=drkcyph7&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkcyph7&hide_border=true&layout=compact&cache_seconds=7200&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
-</div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=drkcyph7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=drkcyph7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Optional: Trophies & top repo removed to reduce external dependency noise -->
 
 <div align="center">
 
