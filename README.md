@@ -32,11 +32,12 @@ Passionate engineer building performant web and cloud-native apps. I focus on de
 <div align="center">
   
 ### 🐍 Contribution Snake (eating your commits!)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/drkcyph7/drkcyph7/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Appears after the workflow runs and creates the SVGs -->
+<a href="https://github.com/DrkCyph7/DrkCyph7/actions" title="Generate snake">
+  <img alt="Awaiting first run" src="https://img.shields.io/badge/Snake-Generating_after_first_run-00FF41?style=for-the-badge">
+  <br/>
+  <sub>If you see a missing image, run the "Generate Snake Animation" workflow in Actions.</sub>
+</a>
 
 ### 💻 Terminal Activity
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=500&color=00FF41&multiline=true&repeat=true&width=600&height=100&lines=%24+sudo+apt+install+awesome;Reading+package+lists...+Done;Building+dependency+tree...;%24+git+commit+-m+%22another+day%2C+another+deploy%22;%24+docker-compose+up+-d;Creating+network...+done" alt="Terminal Animation" />
@@ -50,13 +51,12 @@ Passionate engineer building performant web and cloud-native apps. I focus on de
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drkcyph7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drkcyph7&show_icons=true&hide_border=true&cache_seconds=7200&theme=radical&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=drkcyph7&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkcyph7&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=drkcyph7&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drkcyph7&hide_border=true&layout=compact&cache_seconds=7200&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="49%" />
 </div>
 
 ## 🏆 GitHub Trophies
